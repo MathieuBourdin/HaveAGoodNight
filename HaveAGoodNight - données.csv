@@ -1,0 +1,25 @@
+Cobaye,,,A,,,,,,,,,,B,,,,,,,,C,,,,,,,
+Nuit du ... ,au ...,jour,Heure de coucher,Heure de reveil,Temps de sommeil,Heure du premier cours (jour suivant la nuit),Heure du dernier cours (jour suivant la nuit),Nombre d'heures de cours théoriques (jour suivant la nuit),Nombre d'heures de cours pratiques,Remarques,Heure de retour au foyer,Etat fatigue sur 5 (en forme1/fatigué5) (jour suivant la nuit),Heure de coucher,Heure de reveil,Temps de sommeil,Heure du premier cours,Heure du dernier cours,Nombre d'heures de cours,Heure de retour au foyer,Etat fatigue sur 5 (en forme1/fatigué5) ,Heure de coucher,Heure de reveil,Temps de sommeil,Heure du premier cours,Heure du dernier cours,Nombre d'heures de cours,Heure de retour au foyer,Etat fatigue sur 5 (en forme1/fatigué5) (jour suivant la nuit)
+17/01,18/01,ven,0h40,9h20,8h40,13h30,17h45,4h,4h,trajet en voiture de 5h30 après les cours,minuit 30,2,1h50,7h45,5h55,8h00,17h45,6h,18h,4,23h,7h,,8h,,,,3
+18/01,19/01,sam,1h,9h,8h,-,-,0h,-,WE,resté au foyer,1,1h50,11h,9h10,Non ,Non,0h,non ,2,1h30,10h,,non,,,,2
+19/01,20/01,dim,1h,8h30,7h30,-,-,0h,-,WE + trajet en voiture de 5h le soir de 16h30 à 21h30,21h30,2,2h20,10h,7h40,Non,Non,0h,17h,2,1h30,10h,,non,,,,2
+20/01,21/01,lun,00h00,7h,7h,8h,18h,8h,6h,2 heures séchées de 10 à 12 + sieste de 1h de 10h30 à 11h30,17h,4,2h,10h,8h,Non,Non,0h,23h,3,2h,11h,,non,,,,2
+21/01,22/01,mar,23h30,8h,8h30,8h,17h,7h,7h,-,17h30,3,1h,9h,8h,Non,Non,0h,20h,2,2h,6h50,,non,,,,3
+22/01,23/01,mer,23h,7h,8h,9h,12h,3h,3h,,14h30,1,1h,7h45,6h45,8h00,12h15,4h,14h,2,1h,10h,,non,,,,2
+23/01,24/01,jeu,3h30,9h,5h30,9h30,12h,3h,0h,"chercher copine à la gare à 3h + sieste de 9h30 à 12h30 + 3 heures de projet ""repportées""",-,1,1h,7h45,6h45,8h,12h,4h,17h,1,1h,8h,,non,,,,3
+24/01,25/01,ven,0h30,9h30,9h,13h30,17h45,4h,4h,copine,,1,1h30,9h30,8h,13h30,17h45,4,,2,1h,8h,,14h,,,,1
+25/01,26/01,sam,3h15,9h30,6h15,-,-,0h,-,copine,-,3,1h30,10h,8h30,Non,,,,2,,,,,,,,
+26/01,27/01,dim,23h30,10h,10h30,-,-,0h,-,copine,-,2,2h,11h,9h,,,,,1,,,,,,,,
+27/01,28/01,lun,4h,13h10,9h10,10h15,17h,5h,3h30,,18h,3,2h30,9h,6h30,14h,,,,1,,,,,,,,
+28/01,29/01,mar,23h,6h30,7h30,8h,18h,-,-,"Aller-retour à Paris dans la journée : départ 8h de Part-Dieu, retour 18h",18h30,1,22h30,7h30,9h,8h,12h,4h,12h30,1,,,,,,,,
+29/01,30/01,mer,2h,8h40,6h40,10h,12h,2h,2h,,12h30,4,2h,7h45,5h45,8h,12h,4h,13h30,3,,,,,,,,
+30/01,31/01,jeu,1h,8h45,7h45,10h,12h,2h,2h,,,1,2h,8h30,6h30,9h,15h,5h,17h,3,,,,,,,,
+31/01,01/02,ven,3h30,11h30,8h,13h30,17h45,4h,4h,,19h,2,2h30,10h30,8h,13h30,17h45,4h,18h,2,,,,,,,,
+01/02,02/02,sam,,,,-,-,0h,-,,,,,,,,,,,,,,,,,,,
+02/02,03/02,dim,,,,-,-,0h,-,,,,,,,,,,,,,,,,,,,
+03/02,04/02,lun,,,,,,,,,,,,,,,,,,,,,,,,,,
+04/02,05/02,mar,,,,,,,,,,,,,,,,,,,,,,,,,,
+05/02,06/02,mer,,,,,,,,,,,,,,,,,,,,,,,,,,
+06/02,07/02,jeu,,,,,,,,,,,,,,,,,,,,,,,,,,
+07/02,08/02,ven,,,,,,,,,,,,,,,,,,,,,,,,,,
+08/02,09/02,sam,,,,,,,,,,,,,,,,,,,,,,,,,,
