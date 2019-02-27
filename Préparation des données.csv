@@ -1,4 +1,4 @@
-date,individu,temps_de_sommeil,heures_de_coucher,heures_de_lever,etat_de_fatigue,ordonnees,,,
+date,individu,Temps de sommeil,Heures de coucher,Heures de lever,Etat de fatigue,ordonnees,,,
 18 1 2019,A,8.67,0.67,9.33,2,Temps de sommeil,,,
 19 1 2019,A,8.00,1.00,9.00,1,Heures de coucher,,,
 20 1 2019,A,7.50,1.00,8.50,2,Heures de lever,,,
